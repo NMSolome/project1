@@ -1,0 +1,28 @@
+/* #Name{
+    border:2rem;
+}
+
+#Email{
+    border:none;
+}
+#Password{
+    border:none;
+}
+
+#flexRadioDefault1{
+    border:none;
+}
+#flexRadioDefault2{
+    border:none;
+} */
+
+.container{
+    height:650px;
+    width:600px;
+   
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
